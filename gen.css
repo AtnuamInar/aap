@@ -1,0 +1,14 @@
+#header{
+  text-align: center;
+  margin: auto;
+  color: #fefefe;
+}
+
+#loginform{
+  background-color: white;
+  width: 200px;
+}
+
+.temp{
+  color: #bbb;
+}
